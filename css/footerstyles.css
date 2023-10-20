@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:mediumslateblue;
+    font-size: 165%;
+    font-weight: normal;
+}
+.color {
+    background-color: rgb(186, 238, 255);
+}
+p {
+    color: purple;
+}
+footer p {
+    color: lightblue;
+}
+footer p {
+    color:crimson;
+}
