@@ -158,9 +158,6 @@ header p a {
 form {
     background-color: #ececec;
     padding: 30px 40px;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    margin-right: 300px;
 }
 
 .hidden-label {
@@ -207,7 +204,7 @@ input[type="submit"] {
 input[type="submit"]:hover,
 input[type="submit"]:focus {
     border: 1px solid #e5e9dc;
-    background-color: #999;
+    background-color: #a08ecf;
 }
 /* End Form Styles */
 
